@@ -1,1 +1,1 @@
-A console based dice game using pure Java.
+Developed a console-based dice game in Java for three players that play in the rounds. Each player throws eight dices, then decides which dices with the highest scores he wants to take away and then he chooses if he want continue throwing the rest of dices or not pass the turn to the next player. Each round shows a table with the scores.
